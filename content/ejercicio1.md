@@ -33,7 +33,7 @@ author:
   email: ediazm03@educantabria.es
 ```
 
-![Repositorio](content/images/yaml.PNG)
+![Repositorio](/actividad2_1/content/images/yaml.PNG)
 
 ### 4. Personalización de páginas predeterminadas
 - index.markdown: Personaliza la página de inicio agregando una breve introducción sobre ti y los temas que tratarás en tu blog.
@@ -55,7 +55,7 @@ permalink: /contact/
 Si tienes preguntas o comentarios, no dudes en escribirme a [ediazm03@educantabria.es](mailto:ediazm03@educantabria.es).
 ```
 
-![Repositorio](content/images/contact.PNG)
+![Repositorio](/actividad2_1/content/images/contact.PNG)
 
 ### 6. Crear publicaciones
 Crea al menos tres publicaciones en el directorio _posts usando el formato YYYY-MM-DD-titulo-de-la-publicacion.md. Aquí hay un ejemplo de cómo debería ser una publicación:
@@ -71,7 +71,7 @@ date: 2024-10-01
 
 Jekyll es un generador de sitios estáticos que permite crear blogs y sitios web de manera sencilla. En esta publicación, discutiré cómo empezar con Jekyll y los beneficios de usarlo.
 ```
-![Repositorio](content/images/post.PNG)
+![Repositorio](/actividad2_1/content/images/post.PNG)
 
 ### 7. Probar el sitio localmente
 Para asegurarte de que todo funciona correctamente, ejecuta el siguiente comando en tu terminal para iniciar el servidor local:
@@ -79,8 +79,8 @@ Para asegurarte de que todo funciona correctamente, ejecuta el siguiente comando
 ```bash
 bundle exec jekyll serve
 ```
-![Repositorio](content/images/bundle_Exec.PNG)
+![Repositorio](/actividad2_1/content/images/bundle_Exec.PNG)
 
-![Repositorio](content/images/myblog.PNG)
+![Repositorio](/actividad2_1/content/images/myblog.PNG)
 
-![blog](content/images/final_myblog.PNG)
+![blog](/actividad2_1/content/images/final_myblog.PNG)
